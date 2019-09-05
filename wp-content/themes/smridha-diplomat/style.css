@@ -1,0 +1,31 @@
+/*
+Theme Name: KHN Theme
+Theme URI: https://redcorex.com
+Author: Redcorex
+Author URI: https://redcorex.com
+Description: This is a political or diplomatic pre functional wordpress theme. Political Public figure can also use. The theme support custom post type, sidebars, widgets, custom taxonomies, custom meta box, custom dashboard option. The theme is fully responsive in all device.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: https://gnu.org/licenses/gpl-2.0.html
+Tags: business theme, political theme, diplomat theme, sidebar, widget, custom post type, custom taxonomies, custom meta box, custom dashboard option, theme settings.
+*/
+
+
+.widget_categories ul li ul li a{
+
+}
+
+.widget_categories ul li ul li{
+  border-top: dashed 1px #3f7493;
+  padding-left: 15px !important;
+}
+
+.widget_categories ul li ul{
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+.sub-menu ul li a:hover{
+
+}

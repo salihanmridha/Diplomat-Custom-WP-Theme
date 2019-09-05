@@ -1,0 +1,11 @@
+#profile-page .form-table textarea, .form-table span.description, .form-table td input[type=text], .form-table td input[type=password], .form-table td input[type=email], .form-table td select, .form-table td textarea{
+  width: 50% !important;
+  border-radius: 5px;
+}
+
+.form-table th{
+  color: #4169e1;
+  font-style: italic;
+  font-family: cursive;
+  font-size: 18px;
+}

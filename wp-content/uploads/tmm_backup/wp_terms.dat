@@ -1,0 +1,23 @@
+array (
+  0 => 
+  array (
+    'term_id' => '1',
+    'name' => 'Uncategorized',
+    'slug' => 'uncategorized',
+    'term_group' => '0',
+  ),
+  1 => 
+  array (
+    'term_id' => '2',
+    'name' => 'Menu 1',
+    'slug' => 'menu-1',
+    'term_group' => '0',
+  ),
+  2 => 
+  array (
+    'term_id' => '3',
+    'name' => 'Primary Menu',
+    'slug' => 'primary-menu',
+    'term_group' => '0',
+  ),
+)

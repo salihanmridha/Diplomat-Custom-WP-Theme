@@ -1,0 +1,15 @@
+/*
+Theme Name: Mind Lab IT
+Theme URI: https://smridha.com
+Author: Salihan Mridha
+Author URI: https://smridha.com
+Description: This is business wordpress custom theme for mind lab it. This theme can be used for business profile, business information, portfolio and more. This is beautiful, responsive and functional.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://gnu.org/licenses/gpl-2.0.html
+Tags: business theme, portfolio theme, business profile theme
+*/
+
+.img-size{
+  height: 200px !important;
+}

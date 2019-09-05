@@ -1,0 +1,2570 @@
+array (
+  0 => 
+  array (
+    'option_id' => '1',
+    'option_name' => 'siteurl',
+    'option_value' => '__tmm_old_home_url__',
+    'autoload' => 'yes',
+  ),
+  1 => 
+  array (
+    'option_id' => '2',
+    'option_name' => 'home',
+    'option_value' => '__tmm_old_home_url__',
+    'autoload' => 'yes',
+  ),
+  2 => 
+  array (
+    'option_id' => '3',
+    'option_name' => 'blogname',
+    'option_value' => 'WP Debuging',
+    'autoload' => 'yes',
+  ),
+  3 => 
+  array (
+    'option_id' => '4',
+    'option_name' => 'blogdescription',
+    'option_value' => 'Just another WordPress site',
+    'autoload' => 'yes',
+  ),
+  4 => 
+  array (
+    'option_id' => '5',
+    'option_name' => 'users_can_register',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  5 => 
+  array (
+    'option_id' => '6',
+    'option_name' => 'admin_email',
+    'option_value' => 'ocean9191@gmail.com',
+    'autoload' => 'yes',
+  ),
+  6 => 
+  array (
+    'option_id' => '7',
+    'option_name' => 'start_of_week',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  7 => 
+  array (
+    'option_id' => '8',
+    'option_name' => 'use_balanceTags',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  8 => 
+  array (
+    'option_id' => '9',
+    'option_name' => 'use_smilies',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  9 => 
+  array (
+    'option_id' => '10',
+    'option_name' => 'require_name_email',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  10 => 
+  array (
+    'option_id' => '11',
+    'option_name' => 'comments_notify',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  11 => 
+  array (
+    'option_id' => '12',
+    'option_name' => 'posts_per_rss',
+    'option_value' => '10',
+    'autoload' => 'yes',
+  ),
+  12 => 
+  array (
+    'option_id' => '13',
+    'option_name' => 'rss_use_excerpt',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  13 => 
+  array (
+    'option_id' => '14',
+    'option_name' => 'mailserver_url',
+    'option_value' => 'mail.example.com',
+    'autoload' => 'yes',
+  ),
+  14 => 
+  array (
+    'option_id' => '15',
+    'option_name' => 'mailserver_login',
+    'option_value' => 'login@example.com',
+    'autoload' => 'yes',
+  ),
+  15 => 
+  array (
+    'option_id' => '16',
+    'option_name' => 'mailserver_pass',
+    'option_value' => 'password',
+    'autoload' => 'yes',
+  ),
+  16 => 
+  array (
+    'option_id' => '17',
+    'option_name' => 'mailserver_port',
+    'option_value' => '110',
+    'autoload' => 'yes',
+  ),
+  17 => 
+  array (
+    'option_id' => '18',
+    'option_name' => 'default_category',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  18 => 
+  array (
+    'option_id' => '19',
+    'option_name' => 'default_comment_status',
+    'option_value' => 'open',
+    'autoload' => 'yes',
+  ),
+  19 => 
+  array (
+    'option_id' => '20',
+    'option_name' => 'default_ping_status',
+    'option_value' => 'open',
+    'autoload' => 'yes',
+  ),
+  20 => 
+  array (
+    'option_id' => '21',
+    'option_name' => 'default_pingback_flag',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  21 => 
+  array (
+    'option_id' => '22',
+    'option_name' => 'posts_per_page',
+    'option_value' => '10',
+    'autoload' => 'yes',
+  ),
+  22 => 
+  array (
+    'option_id' => '23',
+    'option_name' => 'date_format',
+    'option_value' => 'F j, Y',
+    'autoload' => 'yes',
+  ),
+  23 => 
+  array (
+    'option_id' => '24',
+    'option_name' => 'time_format',
+    'option_value' => 'g:i a',
+    'autoload' => 'yes',
+  ),
+  24 => 
+  array (
+    'option_id' => '25',
+    'option_name' => 'links_updated_date_format',
+    'option_value' => 'F j, Y g:i a',
+    'autoload' => 'yes',
+  ),
+  25 => 
+  array (
+    'option_id' => '26',
+    'option_name' => 'comment_moderation',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  26 => 
+  array (
+    'option_id' => '27',
+    'option_name' => 'moderation_notify',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  27 => 
+  array (
+    'option_id' => '28',
+    'option_name' => 'permalink_structure',
+    'option_value' => '/%postname%/',
+    'autoload' => 'yes',
+  ),
+  28 => 
+  array (
+    'option_id' => '30',
+    'option_name' => 'hack_file',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  29 => 
+  array (
+    'option_id' => '31',
+    'option_name' => 'blog_charset',
+    'option_value' => 'UTF-8',
+    'autoload' => 'yes',
+  ),
+  30 => 
+  array (
+    'option_id' => '32',
+    'option_name' => 'moderation_keys',
+    'option_value' => '',
+    'autoload' => 'no',
+  ),
+  31 => 
+  array (
+    'option_id' => '33',
+    'option_name' => 'active_plugins',
+    'option_value' => 
+    array (
+      0 => 'LayerSlider/layerslider.php',
+      1 => 'arqam/arqam.php',
+      2 => 'bbpress/bbpress.php',
+      3 => 'classic-editor/classic-editor.php',
+      4 => 'seamless-donations/seamless-donations.php',
+      5 => 'tmm_content_composer/index.php',
+      6 => 'tmm_db_migrate/index.php',
+      7 => 'tmm_events_calendar/index.php',
+      8 => 'tmm_theme_features/index.php',
+    ),
+    'autoload' => 'yes',
+  ),
+  32 => 
+  array (
+    'option_id' => '34',
+    'option_name' => 'category_base',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  33 => 
+  array (
+    'option_id' => '35',
+    'option_name' => 'ping_sites',
+    'option_value' => 'http://rpc.pingomatic.com/',
+    'autoload' => 'yes',
+  ),
+  34 => 
+  array (
+    'option_id' => '36',
+    'option_name' => 'comment_max_links',
+    'option_value' => '2',
+    'autoload' => 'yes',
+  ),
+  35 => 
+  array (
+    'option_id' => '37',
+    'option_name' => 'gmt_offset',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  36 => 
+  array (
+    'option_id' => '38',
+    'option_name' => 'default_email_category',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  37 => 
+  array (
+    'option_id' => '39',
+    'option_name' => 'recently_edited',
+    'option_value' => '',
+    'autoload' => 'no',
+  ),
+  38 => 
+  array (
+    'option_id' => '40',
+    'option_name' => 'template',
+    'option_value' => 'diplomat',
+    'autoload' => 'yes',
+  ),
+  39 => 
+  array (
+    'option_id' => '41',
+    'option_name' => 'stylesheet',
+    'option_value' => 'diplomat',
+    'autoload' => 'yes',
+  ),
+  40 => 
+  array (
+    'option_id' => '42',
+    'option_name' => 'comment_whitelist',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  41 => 
+  array (
+    'option_id' => '43',
+    'option_name' => 'blacklist_keys',
+    'option_value' => '',
+    'autoload' => 'no',
+  ),
+  42 => 
+  array (
+    'option_id' => '44',
+    'option_name' => 'comment_registration',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  43 => 
+  array (
+    'option_id' => '45',
+    'option_name' => 'html_type',
+    'option_value' => 'text/html',
+    'autoload' => 'yes',
+  ),
+  44 => 
+  array (
+    'option_id' => '46',
+    'option_name' => 'use_trackback',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  45 => 
+  array (
+    'option_id' => '47',
+    'option_name' => 'default_role',
+    'option_value' => 'subscriber',
+    'autoload' => 'yes',
+  ),
+  46 => 
+  array (
+    'option_id' => '48',
+    'option_name' => 'db_version',
+    'option_value' => '43764',
+    'autoload' => 'yes',
+  ),
+  47 => 
+  array (
+    'option_id' => '49',
+    'option_name' => 'uploads_use_yearmonth_folders',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  48 => 
+  array (
+    'option_id' => '50',
+    'option_name' => 'upload_path',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  49 => 
+  array (
+    'option_id' => '51',
+    'option_name' => 'blog_public',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  50 => 
+  array (
+    'option_id' => '52',
+    'option_name' => 'default_link_category',
+    'option_value' => '2',
+    'autoload' => 'yes',
+  ),
+  51 => 
+  array (
+    'option_id' => '53',
+    'option_name' => 'show_on_front',
+    'option_value' => 'posts',
+    'autoload' => 'yes',
+  ),
+  52 => 
+  array (
+    'option_id' => '54',
+    'option_name' => 'tag_base',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  53 => 
+  array (
+    'option_id' => '55',
+    'option_name' => 'show_avatars',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  54 => 
+  array (
+    'option_id' => '56',
+    'option_name' => 'avatar_rating',
+    'option_value' => 'G',
+    'autoload' => 'yes',
+  ),
+  55 => 
+  array (
+    'option_id' => '57',
+    'option_name' => 'upload_url_path',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  56 => 
+  array (
+    'option_id' => '58',
+    'option_name' => 'thumbnail_size_w',
+    'option_value' => '150',
+    'autoload' => 'yes',
+  ),
+  57 => 
+  array (
+    'option_id' => '59',
+    'option_name' => 'thumbnail_size_h',
+    'option_value' => '150',
+    'autoload' => 'yes',
+  ),
+  58 => 
+  array (
+    'option_id' => '60',
+    'option_name' => 'thumbnail_crop',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  59 => 
+  array (
+    'option_id' => '61',
+    'option_name' => 'medium_size_w',
+    'option_value' => '300',
+    'autoload' => 'yes',
+  ),
+  60 => 
+  array (
+    'option_id' => '62',
+    'option_name' => 'medium_size_h',
+    'option_value' => '300',
+    'autoload' => 'yes',
+  ),
+  61 => 
+  array (
+    'option_id' => '63',
+    'option_name' => 'avatar_default',
+    'option_value' => 'mystery',
+    'autoload' => 'yes',
+  ),
+  62 => 
+  array (
+    'option_id' => '64',
+    'option_name' => 'large_size_w',
+    'option_value' => '1024',
+    'autoload' => 'yes',
+  ),
+  63 => 
+  array (
+    'option_id' => '65',
+    'option_name' => 'large_size_h',
+    'option_value' => '1024',
+    'autoload' => 'yes',
+  ),
+  64 => 
+  array (
+    'option_id' => '66',
+    'option_name' => 'image_default_link_type',
+    'option_value' => 'none',
+    'autoload' => 'yes',
+  ),
+  65 => 
+  array (
+    'option_id' => '67',
+    'option_name' => 'image_default_size',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  66 => 
+  array (
+    'option_id' => '68',
+    'option_name' => 'image_default_align',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  67 => 
+  array (
+    'option_id' => '69',
+    'option_name' => 'close_comments_for_old_posts',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  68 => 
+  array (
+    'option_id' => '70',
+    'option_name' => 'close_comments_days_old',
+    'option_value' => '14',
+    'autoload' => 'yes',
+  ),
+  69 => 
+  array (
+    'option_id' => '71',
+    'option_name' => 'thread_comments',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  70 => 
+  array (
+    'option_id' => '72',
+    'option_name' => 'thread_comments_depth',
+    'option_value' => '5',
+    'autoload' => 'yes',
+  ),
+  71 => 
+  array (
+    'option_id' => '73',
+    'option_name' => 'page_comments',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  72 => 
+  array (
+    'option_id' => '74',
+    'option_name' => 'comments_per_page',
+    'option_value' => '50',
+    'autoload' => 'yes',
+  ),
+  73 => 
+  array (
+    'option_id' => '75',
+    'option_name' => 'default_comments_page',
+    'option_value' => 'newest',
+    'autoload' => 'yes',
+  ),
+  74 => 
+  array (
+    'option_id' => '76',
+    'option_name' => 'comment_order',
+    'option_value' => 'asc',
+    'autoload' => 'yes',
+  ),
+  75 => 
+  array (
+    'option_id' => '77',
+    'option_name' => 'sticky_posts',
+    'option_value' => 
+    array (
+    ),
+    'autoload' => 'yes',
+  ),
+  76 => 
+  array (
+    'option_id' => '78',
+    'option_name' => 'widget_categories',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'title' => '',
+        'count' => 0,
+        'hierarchical' => 0,
+        'dropdown' => 0,
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  77 => 
+  array (
+    'option_id' => '79',
+    'option_name' => 'widget_text',
+    'option_value' => 
+    array (
+    ),
+    'autoload' => 'yes',
+  ),
+  78 => 
+  array (
+    'option_id' => '80',
+    'option_name' => 'widget_rss',
+    'option_value' => 
+    array (
+    ),
+    'autoload' => 'yes',
+  ),
+  79 => 
+  array (
+    'option_id' => '81',
+    'option_name' => 'uninstall_plugins',
+    'option_value' => 
+    array (
+      'classic-editor/classic-editor.php' => 
+      array (
+        0 => 'Classic_Editor',
+        1 => 'uninstall',
+      ),
+      'LayerSlider/layerslider.php' => 'layerslider_uninstall_scripts',
+    ),
+    'autoload' => 'no',
+  ),
+  80 => 
+  array (
+    'option_id' => '82',
+    'option_name' => 'timezone_string',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  81 => 
+  array (
+    'option_id' => '83',
+    'option_name' => 'page_for_posts',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  82 => 
+  array (
+    'option_id' => '84',
+    'option_name' => 'page_on_front',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  83 => 
+  array (
+    'option_id' => '85',
+    'option_name' => 'default_post_format',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  84 => 
+  array (
+    'option_id' => '86',
+    'option_name' => 'link_manager_enabled',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  85 => 
+  array (
+    'option_id' => '87',
+    'option_name' => 'finished_splitting_shared_terms',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  86 => 
+  array (
+    'option_id' => '88',
+    'option_name' => 'site_icon',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  87 => 
+  array (
+    'option_id' => '89',
+    'option_name' => 'medium_large_size_w',
+    'option_value' => '768',
+    'autoload' => 'yes',
+  ),
+  88 => 
+  array (
+    'option_id' => '90',
+    'option_name' => 'medium_large_size_h',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  89 => 
+  array (
+    'option_id' => '91',
+    'option_name' => '__tmm_wpdb_prefix__page_for_privacy_policy',
+    'option_value' => '3',
+    'autoload' => 'yes',
+  ),
+  90 => 
+  array (
+    'option_id' => '92',
+    'option_name' => 'show_comments_cookies_opt_in',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  91 => 
+  array (
+    'option_id' => '93',
+    'option_name' => 'initial_db_version',
+    'option_value' => '43764',
+    'autoload' => 'yes',
+  ),
+  92 => 
+  array (
+    'option_id' => '94',
+    'option_name' => '__tmm_wpdb_prefix__user_roles',
+    'option_value' => 
+    array (
+      'administrator' => 
+      array (
+        'name' => 'Administrator',
+        'capabilities' => 
+        array (
+          'switch_themes' => true,
+          'edit_themes' => true,
+          'activate_plugins' => true,
+          'edit_plugins' => true,
+          'edit_users' => true,
+          'edit_files' => true,
+          'manage_options' => true,
+          'moderate_comments' => true,
+          'manage_categories' => true,
+          'manage_links' => true,
+          'upload_files' => true,
+          'import' => true,
+          'unfiltered_html' => true,
+          'edit_posts' => true,
+          'edit_others_posts' => true,
+          'edit_published_posts' => true,
+          'publish_posts' => true,
+          'edit_pages' => true,
+          'read' => true,
+          'level_10' => true,
+          'level_9' => true,
+          'level_8' => true,
+          'level_7' => true,
+          'level_6' => true,
+          'level_5' => true,
+          'level_4' => true,
+          'level_3' => true,
+          'level_2' => true,
+          'level_1' => true,
+          'level_0' => true,
+          'edit_others_pages' => true,
+          'edit_published_pages' => true,
+          'publish_pages' => true,
+          'delete_pages' => true,
+          'delete_others_pages' => true,
+          'delete_published_pages' => true,
+          'delete_posts' => true,
+          'delete_others_posts' => true,
+          'delete_published_posts' => true,
+          'delete_private_posts' => true,
+          'edit_private_posts' => true,
+          'read_private_posts' => true,
+          'delete_private_pages' => true,
+          'edit_private_pages' => true,
+          'read_private_pages' => true,
+          'delete_users' => true,
+          'create_users' => true,
+          'unfiltered_upload' => true,
+          'edit_dashboard' => true,
+          'update_plugins' => true,
+          'delete_plugins' => true,
+          'install_plugins' => true,
+          'update_themes' => true,
+          'install_themes' => true,
+          'update_core' => true,
+          'list_users' => true,
+          'remove_users' => true,
+          'promote_users' => true,
+          'edit_theme_options' => true,
+          'delete_themes' => true,
+          'export' => true,
+        ),
+      ),
+      'editor' => 
+      array (
+        'name' => 'Editor',
+        'capabilities' => 
+        array (
+          'moderate_comments' => true,
+          'manage_categories' => true,
+          'manage_links' => true,
+          'upload_files' => true,
+          'unfiltered_html' => true,
+          'edit_posts' => true,
+          'edit_others_posts' => true,
+          'edit_published_posts' => true,
+          'publish_posts' => true,
+          'edit_pages' => true,
+          'read' => true,
+          'level_7' => true,
+          'level_6' => true,
+          'level_5' => true,
+          'level_4' => true,
+          'level_3' => true,
+          'level_2' => true,
+          'level_1' => true,
+          'level_0' => true,
+          'edit_others_pages' => true,
+          'edit_published_pages' => true,
+          'publish_pages' => true,
+          'delete_pages' => true,
+          'delete_others_pages' => true,
+          'delete_published_pages' => true,
+          'delete_posts' => true,
+          'delete_others_posts' => true,
+          'delete_published_posts' => true,
+          'delete_private_posts' => true,
+          'edit_private_posts' => true,
+          'read_private_posts' => true,
+          'delete_private_pages' => true,
+          'edit_private_pages' => true,
+          'read_private_pages' => true,
+        ),
+      ),
+      'author' => 
+      array (
+        'name' => 'Author',
+        'capabilities' => 
+        array (
+          'upload_files' => true,
+          'edit_posts' => true,
+          'edit_published_posts' => true,
+          'publish_posts' => true,
+          'read' => true,
+          'level_2' => true,
+          'level_1' => true,
+          'level_0' => true,
+          'delete_posts' => true,
+          'delete_published_posts' => true,
+        ),
+      ),
+      'contributor' => 
+      array (
+        'name' => 'Contributor',
+        'capabilities' => 
+        array (
+          'edit_posts' => true,
+          'read' => true,
+          'level_1' => true,
+          'level_0' => true,
+          'delete_posts' => true,
+        ),
+      ),
+      'subscriber' => 
+      array (
+        'name' => 'Subscriber',
+        'capabilities' => 
+        array (
+          'read' => true,
+          'level_0' => true,
+        ),
+      ),
+      'bbp_keymaster' => 
+      array (
+        'name' => 'Keymaster',
+        'capabilities' => 
+        array (
+        ),
+      ),
+      'bbp_spectator' => 
+      array (
+        'name' => 'Spectator',
+        'capabilities' => 
+        array (
+        ),
+      ),
+      'bbp_blocked' => 
+      array (
+        'name' => 'Blocked',
+        'capabilities' => 
+        array (
+        ),
+      ),
+    ),
+    'autoload' => 'yes',
+  ),
+  93 => 
+  array (
+    'option_id' => '95',
+    'option_name' => 'fresh_site',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  94 => 
+  array (
+    'option_id' => '96',
+    'option_name' => 'widget_search',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'title' => '',
+      ),
+      3 => 
+      array (
+        'title' => '',
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  95 => 
+  array (
+    'option_id' => '97',
+    'option_name' => 'widget_recent-posts',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'title' => '',
+        'number' => 5,
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  96 => 
+  array (
+    'option_id' => '98',
+    'option_name' => 'widget_recent-comments',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'title' => '',
+        'number' => 5,
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  97 => 
+  array (
+    'option_id' => '99',
+    'option_name' => 'widget_archives',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'title' => '',
+        'count' => 0,
+        'dropdown' => 0,
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  98 => 
+  array (
+    'option_id' => '100',
+    'option_name' => 'widget_meta',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'title' => '',
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  99 => 
+  array (
+    'option_id' => '101',
+    'option_name' => 'sidebars_widgets',
+    'option_value' => 
+    array (
+      'wp_inactive_widgets' => 
+      array (
+      ),
+      'tmm_default_sidebar' => 
+      array (
+        0 => 'search-2',
+        1 => 'recent-posts-2',
+        2 => 'recent-comments-2',
+        3 => 'archives-2',
+        4 => 'categories-2',
+        5 => 'meta-2',
+      ),
+      'footer_sidebar_1' => 
+      array (
+        0 => 'search-3',
+      ),
+      'footer_sidebar_2' => 
+      array (
+      ),
+      'footer_sidebar_3' => 
+      array (
+      ),
+      'array_version' => 3,
+    ),
+    'autoload' => 'yes',
+  ),
+  100 => 
+  array (
+    'option_id' => '102',
+    'option_name' => 'widget_pages',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  101 => 
+  array (
+    'option_id' => '103',
+    'option_name' => 'widget_calendar',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  102 => 
+  array (
+    'option_id' => '104',
+    'option_name' => 'widget_media_audio',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  103 => 
+  array (
+    'option_id' => '105',
+    'option_name' => 'widget_media_image',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  104 => 
+  array (
+    'option_id' => '106',
+    'option_name' => 'widget_media_gallery',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  105 => 
+  array (
+    'option_id' => '107',
+    'option_name' => 'widget_media_video',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  106 => 
+  array (
+    'option_id' => '108',
+    'option_name' => 'widget_tag_cloud',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  107 => 
+  array (
+    'option_id' => '109',
+    'option_name' => 'widget_nav_menu',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  108 => 
+  array (
+    'option_id' => '110',
+    'option_name' => 'widget_custom_html',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  109 => 
+  array (
+    'option_id' => '111',
+    'option_name' => 'cron',
+    'option_value' => 
+    array (
+      1548258259 => 
+      array (
+        '__tmm_wpdb_prefix__privacy_delete_old_export_files' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'hourly',
+            'args' => 
+            array (
+            ),
+            'interval' => 3600,
+          ),
+        ),
+      ),
+      1548269059 => 
+      array (
+        'wp_version_check' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'twicedaily',
+            'args' => 
+            array (
+            ),
+            'interval' => 43200,
+          ),
+        ),
+        'wp_update_plugins' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'twicedaily',
+            'args' => 
+            array (
+            ),
+            'interval' => 43200,
+          ),
+        ),
+        'wp_update_themes' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'twicedaily',
+            'args' => 
+            array (
+            ),
+            'interval' => 43200,
+          ),
+        ),
+      ),
+      1548312274 => 
+      array (
+        'wp_scheduled_delete' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'daily',
+            'args' => 
+            array (
+            ),
+            'interval' => 86400,
+          ),
+        ),
+        'delete_expired_transients' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'daily',
+            'args' => 
+            array (
+            ),
+            'interval' => 86400,
+          ),
+        ),
+      ),
+      'version' => 2,
+    ),
+    'autoload' => 'yes',
+  ),
+  110 => 
+  array (
+    'option_id' => '112',
+    'option_name' => 'theme_mods_twentynineteen',
+    'option_value' => 
+    array (
+      'custom_css_post_id' => -1,
+      'sidebars_widgets' => 
+      array (
+        'time' => 1548053111,
+        'data' => 
+        array (
+          'wp_inactive_widgets' => 
+          array (
+          ),
+          'sidebar-1' => 
+          array (
+            0 => 'search-2',
+            1 => 'recent-posts-2',
+            2 => 'recent-comments-2',
+            3 => 'archives-2',
+            4 => 'categories-2',
+            5 => 'meta-2',
+          ),
+        ),
+      ),
+    ),
+    'autoload' => 'yes',
+  ),
+  111 => 
+  array (
+    'option_id' => '123',
+    'option_name' => 'can_compress_scripts',
+    'option_value' => '1',
+    'autoload' => 'no',
+  ),
+  112 => 
+  array (
+    'option_id' => '136',
+    'option_name' => 'current_theme',
+    'option_value' => 'Diplomat',
+    'autoload' => 'yes',
+  ),
+  113 => 
+  array (
+    'option_id' => '137',
+    'option_name' => 'theme_mods_mindlabit',
+    'option_value' => 
+    array (
+      0 => false,
+      'nav_menu_locations' => 
+      array (
+        'primary' => 2,
+      ),
+      'custom_css_post_id' => -1,
+      'sidebars_widgets' => 
+      array (
+        'time' => 1548253944,
+        'data' => 
+        array (
+          'wp_inactive_widgets' => 
+          array (
+          ),
+          'right-sidebar' => 
+          array (
+            0 => 'search-2',
+            1 => 'recent-posts-2',
+            2 => 'recent-comments-2',
+            3 => 'archives-2',
+            4 => 'categories-2',
+            5 => 'meta-2',
+          ),
+          'who-we-are' => 
+          array (
+            0 => 'who-we-are-2',
+          ),
+          'we-have-magic' => 
+          array (
+          ),
+          'mindlab_awesome' => 
+          array (
+          ),
+          'mindlab-why-choose-us' => 
+          array (
+          ),
+          'mindlab-counter-widget' => 
+          array (
+          ),
+          'mindlab-first-footer-sidebar' => 
+          array (
+            0 => 'search-3',
+          ),
+        ),
+      ),
+    ),
+    'autoload' => 'yes',
+  ),
+  114 => 
+  array (
+    'option_id' => '138',
+    'option_name' => 'theme_switched',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  115 => 
+  array (
+    'option_id' => '139',
+    'option_name' => 'widget_who-we-are',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  116 => 
+  array (
+    'option_id' => '140',
+    'option_name' => 'nav_menu_options',
+    'option_value' => 
+    array (
+      0 => false,
+      'auto_add' => 
+      array (
+      ),
+    ),
+    'autoload' => 'yes',
+  ),
+  117 => 
+  array (
+    'option_id' => '141',
+    'option_name' => 'mindlab_logo_upload',
+    'option_value' => '__tmm_old_home_url__/wp-content/uploads/2019/01/logo.png',
+    'autoload' => 'yes',
+  ),
+  118 => 
+  array (
+    'option_id' => '142',
+    'option_name' => 'mindlab_body_slider_title',
+    'option_value' => 'UNNIVERSAL',
+    'autoload' => 'yes',
+  ),
+  119 => 
+  array (
+    'option_id' => '143',
+    'option_name' => 'mindlab_body_slider_subtitle',
+    'option_value' => 'SMART BUSINESS TEMPLATE',
+    'autoload' => 'yes',
+  ),
+  120 => 
+  array (
+    'option_id' => '144',
+    'option_name' => 'mindlab_body_first_img_slider',
+    'option_value' => '__tmm_old_home_url__/wp-content/uploads/2019/01/2209693785_06c7b671f0_o.jpg',
+    'autoload' => 'yes',
+  ),
+  121 => 
+  array (
+    'option_id' => '145',
+    'option_name' => 'mindlab_body_second_img_slider',
+    'option_value' => '__tmm_old_home_url__/wp-content/uploads/2019/01/aliendawn.jpg',
+    'autoload' => 'yes',
+  ),
+  122 => 
+  array (
+    'option_id' => '146',
+    'option_name' => 'mindlab_body_third_img_slider',
+    'option_value' => '__tmm_old_home_url__/wp-content/uploads/2019/01/castlerock.jpg',
+    'autoload' => 'yes',
+  ),
+  123 => 
+  array (
+    'option_id' => '147',
+    'option_name' => 'mindlab_footer_copyright',
+    'option_value' => 'COPYRIGHT MINDLAB',
+    'autoload' => 'yes',
+  ),
+  124 => 
+  array (
+    'option_id' => '148',
+    'option_name' => 'mindlab_footer_twitter_link',
+    'option_value' => '#',
+    'autoload' => 'yes',
+  ),
+  125 => 
+  array (
+    'option_id' => '149',
+    'option_name' => 'mindlab_footer_facebook_link',
+    'option_value' => '#',
+    'autoload' => 'yes',
+  ),
+  126 => 
+  array (
+    'option_id' => '150',
+    'option_name' => 'mindlab_footer_gplus_link',
+    'option_value' => '#',
+    'autoload' => 'yes',
+  ),
+  127 => 
+  array (
+    'option_id' => '151',
+    'option_name' => 'mindlab_footer_linkedin_link',
+    'option_value' => '#',
+    'autoload' => 'yes',
+  ),
+  128 => 
+  array (
+    'option_id' => '157',
+    'option_name' => 'theme_mods_twentysixteen',
+    'option_value' => 
+    array (
+      0 => false,
+      'nav_menu_locations' => 
+      array (
+        'primary' => 2,
+      ),
+      'sidebars_widgets' => 
+      array (
+        'time' => 1548053537,
+        'data' => 
+        array (
+          'wp_inactive_widgets' => 
+          array (
+          ),
+          'sidebar-1' => 
+          array (
+            0 => 'search-2',
+            1 => 'recent-posts-2',
+            2 => 'recent-comments-2',
+            3 => 'archives-2',
+            4 => 'categories-2',
+            5 => 'meta-2',
+          ),
+          'sidebar-2' => 
+          array (
+          ),
+          'sidebar-3' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+    'autoload' => 'yes',
+  ),
+  129 => 
+  array (
+    'option_id' => '160',
+    'option_name' => 'widget_we-have-magic',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  130 => 
+  array (
+    'option_id' => '161',
+    'option_name' => 'widget_mindlab_awesome',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  131 => 
+  array (
+    'option_id' => '162',
+    'option_name' => 'widget_mindlab-why-choose-us',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  132 => 
+  array (
+    'option_id' => '163',
+    'option_name' => 'widget_mindlab-counter-widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  133 => 
+  array (
+    'option_id' => '170',
+    'option_name' => 'theme_mods_diplomat',
+    'option_value' => 
+    array (
+      0 => false,
+      'nav_menu_locations' => 
+      array (
+        'primary' => 2,
+      ),
+      'custom_css_post_id' => -1,
+    ),
+    'autoload' => 'yes',
+  ),
+  134 => 
+  array (
+    'option_id' => '171',
+    'option_name' => 'thememakers_theme_options',
+    'option_value' => 
+    array (
+      'theme_was_activated' => 1,
+      'sidebar_position' => 'sbr',
+      'copyright_text' => 'Copyright &copy; 2019. <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>. All rights reserved',
+      'social_types' => 'a:22:{s:7:"twitter";a:2:{s:4:"name";s:7:"Twitter";s:4:"link";s:31:"https://twitter.com/ThemeMakers";}s:8:"facebook";a:2:{s:4:"name";s:8:"Facebook";s:4:"link";s:37:"http://www.facebook.com/wpThemeMakers";}s:8:"linkedin";a:2:{s:4:"name";s:8:"Linkedin";s:4:"link";s:20:"http://linkedin.com/";}s:9:"pinterest";a:2:{s:4:"name";s:9:"Pinterest";s:4:"link";s:21:"http://pinterest.com/";}s:3:"rss";a:2:{s:4:"name";s:3:"Rss";s:4:"link";s:5:"false";}s:5:"gplus";a:2:{s:4:"name";s:11:"Google Plus";s:4:"link";s:23:"http://plus.google.com/";}s:9:"instagram";a:2:{s:4:"name";s:9:"Instagram";s:4:"link";s:0:"";}s:7:"dropbox";a:2:{s:4:"name";s:7:"Dropbox";s:4:"link";s:0:"";}s:8:"dribbble";a:2:{s:4:"name";s:8:"Dribbble";s:4:"link";s:0:"";}s:5:"vimeo";a:2:{s:4:"name";s:5:"Vimeo";s:4:"link";s:0:"";}s:7:"youtube";a:2:{s:4:"name";s:7:"Youtube";s:4:"link";s:0:"";}s:7:"blogger";a:2:{s:4:"name";s:7:"Blogger";s:4:"link";s:0:"";}s:8:"evernote";a:2:{s:4:"name";s:8:"Evernote";s:4:"link";s:0:"";}s:7:"behance";a:2:{s:4:"name";s:7:"Behance";s:4:"link";s:0:"";}s:5:"skype";a:2:{s:4:"name";s:5:"Skype";s:4:"link";s:0:"";}s:4:"digg";a:2:{s:4:"name";s:4:"Digg";s:4:"link";s:0:"";}s:8:"appstore";a:2:{s:4:"name";s:5:"Apple";s:4:"link";s:0:"";}s:9:"wordpress";a:2:{s:4:"name";s:9:"Wordpress";s:4:"link";s:0:"";}s:10:"deviantart";a:2:{s:4:"name";s:10:"Deviantart";s:4:"link";s:0:"";}s:6:"github";a:2:{s:4:"name";s:6:"Github";s:4:"link";s:0:"";}s:5:"email";a:2:{s:4:"name";s:5:"Email";s:4:"link";s:0:"";}s:6:"flickr";a:2:{s:4:"name";s:6:"Flickr";s:4:"link";s:0:"";}}',
+    ),
+    'autoload' => 'yes',
+  ),
+  135 => 
+  array (
+    'option_id' => '172',
+    'option_name' => 'widget_tmm_latest_tweets_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  136 => 
+  array (
+    'option_id' => '173',
+    'option_name' => 'widget_tmm_recent_posts_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  137 => 
+  array (
+    'option_id' => '174',
+    'option_name' => 'widget_tmm_social_links_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  138 => 
+  array (
+    'option_id' => '175',
+    'option_name' => 'widget_tmm_testimonials_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  139 => 
+  array (
+    'option_id' => '176',
+    'option_name' => 'widget_tmm_contact_form_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  140 => 
+  array (
+    'option_id' => '177',
+    'option_name' => 'widget_tmm_flickr_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  141 => 
+  array (
+    'option_id' => '178',
+    'option_name' => 'widget_tmm_google_map_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  142 => 
+  array (
+    'option_id' => '179',
+    'option_name' => 'widget_tmm_facebook_likebox_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  143 => 
+  array (
+    'option_id' => '180',
+    'option_name' => 'widget_tmm_contact_us_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  144 => 
+  array (
+    'option_id' => '181',
+    'option_name' => 'widget_tmm_mail_subscription_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  145 => 
+  array (
+    'option_id' => '182',
+    'option_name' => 'widget_tmm_video_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  146 => 
+  array (
+    'option_id' => '183',
+    'option_name' => 'widget_tmm_featured_boxes',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  147 => 
+  array (
+    'option_id' => '184',
+    'option_name' => 'widget_tmm_accordion_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  148 => 
+  array (
+    'option_id' => '185',
+    'option_name' => 'widget_tmm_shortcodes_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  149 => 
+  array (
+    'option_id' => '194',
+    'option_name' => 'widget_seamlessdonationsthismonth_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  150 => 
+  array (
+    'option_id' => '195',
+    'option_name' => 'dgx_donate_active_version',
+    'option_value' => '4.0.23',
+    'autoload' => 'yes',
+  ),
+  151 => 
+  array (
+    'option_id' => '196',
+    'option_name' => 'dgx_donate_start_in_sd4_mode',
+    'option_value' => 'true',
+    'autoload' => 'yes',
+  ),
+  152 => 
+  array (
+    'option_id' => '197',
+    'option_name' => 'dgx_donate_email_name',
+    'option_value' => 'WP Debuging',
+    'autoload' => 'yes',
+  ),
+  153 => 
+  array (
+    'option_id' => '198',
+    'option_name' => 'dgx_donate_email_reply',
+    'option_value' => 'ocean9191@gmail.com',
+    'autoload' => 'yes',
+  ),
+  154 => 
+  array (
+    'option_id' => '199',
+    'option_name' => 'dgx_donate_email_subj',
+    'option_value' => 'Thank you for your donation',
+    'autoload' => 'yes',
+  ),
+  155 => 
+  array (
+    'option_id' => '200',
+    'option_name' => 'dgx_donate_email_body',
+    'option_value' => 'Dear [firstname] [lastname],
+
+Thank you for your generous donation of [amount]. Please note that no goods or services were received in exchange for this donation.',
+    'autoload' => 'yes',
+  ),
+  156 => 
+  array (
+    'option_id' => '201',
+    'option_name' => 'dgx_donate_email_recur',
+    'option_value' => 'Thank you for electing to have your donation automatically repeated each month.',
+    'autoload' => 'yes',
+  ),
+  157 => 
+  array (
+    'option_id' => '202',
+    'option_name' => 'dgx_donate_email_desig',
+    'option_value' => 'Your donation has been designated to the [fund] fund.',
+    'autoload' => 'yes',
+  ),
+  158 => 
+  array (
+    'option_id' => '203',
+    'option_name' => 'dgx_donate_email_anon',
+    'option_value' => 'You have requested that your donation be kept anonymous.  Your name will not be revealed to the public.',
+    'autoload' => 'yes',
+  ),
+  159 => 
+  array (
+    'option_id' => '204',
+    'option_name' => 'dgx_donate_email_list',
+    'option_value' => 'Thank you for joining our mailing list.  We will send you updates from time-to-time.  If at any time you would like to stop receiving emails, please send us an email to be removed from the mailing list.',
+    'autoload' => 'yes',
+  ),
+  160 => 
+  array (
+    'option_id' => '205',
+    'option_name' => 'dgx_donate_email_trib',
+    'option_value' => 'You have asked to make this donation in honor of or memory of someone else.  Thank you!  We will notify the honoree within the next 5-10 business days.',
+    'autoload' => 'yes',
+  ),
+  161 => 
+  array (
+    'option_id' => '206',
+    'option_name' => 'dgx_donate_email_empl',
+    'option_value' => 'You have specified that your employer matches some or all of your donation. ',
+    'autoload' => 'yes',
+  ),
+  162 => 
+  array (
+    'option_id' => '207',
+    'option_name' => 'dgx_donate_email_close',
+    'option_value' => 'Thanks again for your support!',
+    'autoload' => 'yes',
+  ),
+  163 => 
+  array (
+    'option_id' => '208',
+    'option_name' => 'dgx_donate_email_sig',
+    'option_value' => 'Director of Donor Relations',
+    'autoload' => 'yes',
+  ),
+  164 => 
+  array (
+    'option_id' => '209',
+    'option_name' => 'dgx_donate_notify_emails',
+    'option_value' => 'ocean9191@gmail.com',
+    'autoload' => 'yes',
+  ),
+  165 => 
+  array (
+    'option_id' => '210',
+    'option_name' => 'dgx_donate_payment_gateway',
+    'option_value' => 'DGXDONATEPAYPALSTD',
+    'autoload' => 'yes',
+  ),
+  166 => 
+  array (
+    'option_id' => '211',
+    'option_name' => 'dgx_donate_paypal_server',
+    'option_value' => 'LIVE',
+    'autoload' => 'yes',
+  ),
+  167 => 
+  array (
+    'option_id' => '212',
+    'option_name' => 'dgx_donate_paypal_email',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  168 => 
+  array (
+    'option_id' => '213',
+    'option_name' => 'dgx_donate_thanks_text',
+    'option_value' => 'Thank you for donating!  A thank you email with the details of your donation will be sent to the email address you provided.',
+    'autoload' => 'yes',
+  ),
+  169 => 
+  array (
+    'option_id' => '214',
+    'option_name' => 'dgx_donate_giving_level_1000',
+    'option_value' => 'yes',
+    'autoload' => 'yes',
+  ),
+  170 => 
+  array (
+    'option_id' => '215',
+    'option_name' => 'dgx_donate_giving_level_500',
+    'option_value' => 'yes',
+    'autoload' => 'yes',
+  ),
+  171 => 
+  array (
+    'option_id' => '216',
+    'option_name' => 'dgx_donate_giving_level_100',
+    'option_value' => 'yes',
+    'autoload' => 'yes',
+  ),
+  172 => 
+  array (
+    'option_id' => '217',
+    'option_name' => 'dgx_donate_giving_level_50',
+    'option_value' => 'yes',
+    'autoload' => 'yes',
+  ),
+  173 => 
+  array (
+    'option_id' => '218',
+    'option_name' => 'dgx_donate_currency',
+    'option_value' => 'USD',
+    'autoload' => 'yes',
+  ),
+  174 => 
+  array (
+    'option_id' => '219',
+    'option_name' => 'dgx_donate_default_country',
+    'option_value' => 'US',
+    'autoload' => 'yes',
+  ),
+  175 => 
+  array (
+    'option_id' => '220',
+    'option_name' => 'dgx_donate_default_state',
+    'option_value' => 'WA',
+    'autoload' => 'yes',
+  ),
+  176 => 
+  array (
+    'option_id' => '221',
+    'option_name' => 'dgx_donate_default_province',
+    'option_value' => 'AB',
+    'autoload' => 'yes',
+  ),
+  177 => 
+  array (
+    'option_id' => '222',
+    'option_name' => 'dgx_donate_show_employer_section',
+    'option_value' => 'false',
+    'autoload' => 'yes',
+  ),
+  178 => 
+  array (
+    'option_id' => '223',
+    'option_name' => 'dgx_donate_show_donor_occupation_field',
+    'option_value' => 'false',
+    'autoload' => 'yes',
+  ),
+  179 => 
+  array (
+    'option_id' => '224',
+    'option_name' => 'dgx_donate_show_donor_employer_field',
+    'option_value' => 'false',
+    'autoload' => 'yes',
+  ),
+  180 => 
+  array (
+    'option_id' => '225',
+    'option_name' => 'dgx_donate_show_tribute_section',
+    'option_value' => 'true',
+    'autoload' => 'yes',
+  ),
+  181 => 
+  array (
+    'option_id' => '226',
+    'option_name' => 'dgx_donate_scripts_in_footer',
+    'option_value' => 'false',
+    'autoload' => 'yes',
+  ),
+  182 => 
+  array (
+    'option_id' => '227',
+    'option_name' => 'dgx_donate_log_obscure_name',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  183 => 
+  array (
+    'option_id' => '228',
+    'option_name' => 'dgx_donate_db_version',
+    'option_value' => '1.0.1',
+    'autoload' => 'yes',
+  ),
+  184 => 
+  array (
+    'option_id' => '229',
+    'option_name' => 'dgx_donate_4012_indexes_updated',
+    'option_value' => 'sd4012',
+    'autoload' => 'yes',
+  ),
+  185 => 
+  array (
+    'option_id' => '230',
+    'option_name' => 'dgx_donate_4013_anon_updated',
+    'option_value' => 'sd4013',
+    'autoload' => 'yes',
+  ),
+  186 => 
+  array (
+    'option_id' => '232',
+    'option_name' => 'dgx_donate_display_admin_donations_tab',
+    'option_value' => 'show',
+    'autoload' => 'yes',
+  ),
+  187 => 
+  array (
+    'option_id' => '233',
+    'option_name' => 'dgx_donate_display_admin_donors_tab',
+    'option_value' => 'show',
+    'autoload' => 'yes',
+  ),
+  188 => 
+  array (
+    'option_id' => '234',
+    'option_name' => 'dgx_donate_display_admin_funds_tab',
+    'option_value' => 'show',
+    'autoload' => 'yes',
+  ),
+  189 => 
+  array (
+    'option_id' => '238',
+    'option_name' => 'widget_bbp_login_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  190 => 
+  array (
+    'option_id' => '239',
+    'option_name' => 'widget_bbp_views_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  191 => 
+  array (
+    'option_id' => '240',
+    'option_name' => 'widget_bbp_search_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  192 => 
+  array (
+    'option_id' => '241',
+    'option_name' => 'widget_bbp_forums_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  193 => 
+  array (
+    'option_id' => '242',
+    'option_name' => 'widget_bbp_topics_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  194 => 
+  array (
+    'option_id' => '243',
+    'option_name' => 'widget_bbp_replies_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  195 => 
+  array (
+    'option_id' => '244',
+    'option_name' => 'widget_bbp_stats_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  196 => 
+  array (
+    'option_id' => '246',
+    'option_name' => '_bbp_private_forums',
+    'option_value' => 
+    array (
+    ),
+    'autoload' => 'yes',
+  ),
+  197 => 
+  array (
+    'option_id' => '247',
+    'option_name' => '_bbp_hidden_forums',
+    'option_value' => 
+    array (
+    ),
+    'autoload' => 'yes',
+  ),
+  198 => 
+  array (
+    'option_id' => '248',
+    'option_name' => '_bbp_db_version',
+    'option_value' => '250',
+    'autoload' => 'yes',
+  ),
+  199 => 
+  array (
+    'option_id' => '249',
+    'option_name' => 'rewrite_rules',
+    'option_value' => 
+    array (
+      'forums/?$' => 'index.php?post_type=forum',
+      'forums/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=forum&feed=$matches[1]',
+      'forums/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=forum&feed=$matches[1]',
+      'forums/page/([0-9]{1,})/?$' => 'index.php?post_type=forum&paged=$matches[1]',
+      'topics/?$' => 'index.php?post_type=topic',
+      'topics/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=topic&feed=$matches[1]',
+      'topics/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=topic&feed=$matches[1]',
+      'topics/page/([0-9]{1,})/?$' => 'index.php?post_type=topic&paged=$matches[1]',
+      'forums/forum/([^/]+)/edit/?$' => 'index.php?forum=$matches[1]&edit=1',
+      'forums/topic/([^/]+)/edit/?$' => 'index.php?topic=$matches[1]&edit=1',
+      'forums/reply/([^/]+)/edit/?$' => 'index.php?reply=$matches[1]&edit=1',
+      'forums/topic-tag/([^/]+)/edit/?$' => 'index.php?topic-tag=$matches[1]&edit=1',
+      'forums/user/([^/]+)/topics/page/?([0-9]{1,})/?$' => 'index.php?bbp_user=$matches[1]&bbp_tops=1&paged=$matches[2]',
+      'forums/user/([^/]+)/replies/page/?([0-9]{1,})/?$' => 'index.php?bbp_user=$matches[1]&bbp_reps=1&paged=$matches[2]',
+      'forums/user/([^/]+)/favorites/page/?([0-9]{1,})/?$' => 'index.php?bbp_user=$matches[1]&bbp_favs=1&paged=$matches[2]',
+      'forums/user/([^/]+)/subscriptions/page/?([0-9]{1,})/?$' => 'index.php?bbp_user=$matches[1]&bbp_subs=1&paged=$matches[2]',
+      'forums/user/([^/]+)/topics/?$' => 'index.php?bbp_user=$matches[1]&bbp_tops=1',
+      'forums/user/([^/]+)/replies/?$' => 'index.php?bbp_user=$matches[1]&bbp_reps=1',
+      'forums/user/([^/]+)/favorites/?$' => 'index.php?bbp_user=$matches[1]&bbp_favs=1',
+      'forums/user/([^/]+)/subscriptions/?$' => 'index.php?bbp_user=$matches[1]&bbp_subs=1',
+      'forums/user/([^/]+)/edit/?$' => 'index.php?bbp_user=$matches[1]&edit=1',
+      'forums/user/([^/]+)/?$' => 'index.php?bbp_user=$matches[1]',
+      'forums/view/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?bbp_view=$matches[1]&paged=$matches[2]',
+      'forums/view/([^/]+)/feed/?$' => 'index.php?bbp_view=$matches[1]&feed=$matches[2]',
+      'forums/view/([^/]+)/?$' => 'index.php?bbp_view=$matches[1]',
+      'forums/search/page/?([0-9]{1,})/?$' => 'index.php?paged=$matches[1]',
+      'forums/search/?$' => 'index.php?bbp_search',
+      '^wp-json/?$' => 'index.php?rest_route=/',
+      '^wp-json/(.*)?' => 'index.php?rest_route=/$matches[1]',
+      '^index.php/wp-json/?$' => 'index.php?rest_route=/',
+      '^index.php/wp-json/(.*)?' => 'index.php?rest_route=/$matches[1]',
+      'team-page/?$' => 'index.php?post_type=team-page',
+      'team-page/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=team-page&feed=$matches[1]',
+      'team-page/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=team-page&feed=$matches[1]',
+      'team-page/page/([0-9]{1,})/?$' => 'index.php?post_type=team-page&paged=$matches[1]',
+      'tmonials/?$' => 'index.php?post_type=tmonials',
+      'tmonials/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=tmonials&feed=$matches[1]',
+      'tmonials/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=tmonials&feed=$matches[1]',
+      'tmonials/page/([0-9]{1,})/?$' => 'index.php?post_type=tmonials&paged=$matches[1]',
+      'gall/?$' => 'index.php?post_type=gall',
+      'gall/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=gall&feed=$matches[1]',
+      'gall/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=gall&feed=$matches[1]',
+      'gall/page/([0-9]{1,})/?$' => 'index.php?post_type=gall&paged=$matches[1]',
+      'event/?$' => 'index.php?post_type=event',
+      'event/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=event&feed=$matches[1]',
+      'event/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=event&feed=$matches[1]',
+      'event/page/([0-9]{1,})/?$' => 'index.php?post_type=event&paged=$matches[1]',
+      '^event/([^/]*)/date/([^/]*)/?' => 'index.php?event=$matches[1]&date=$matches[2]',
+      '^event/date/([^/]*)/?' => 'index.php?post_type=event&date=$matches[1]',
+      'category/(.+?)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?category_name=$matches[1]&feed=$matches[2]',
+      'category/(.+?)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?category_name=$matches[1]&feed=$matches[2]',
+      'category/(.+?)/embed/?$' => 'index.php?category_name=$matches[1]&embed=true',
+      'category/(.+?)/page/?([0-9]{1,})/?$' => 'index.php?category_name=$matches[1]&paged=$matches[2]',
+      'category/(.+?)/?$' => 'index.php?category_name=$matches[1]',
+      'tag/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?tag=$matches[1]&feed=$matches[2]',
+      'tag/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?tag=$matches[1]&feed=$matches[2]',
+      'tag/([^/]+)/embed/?$' => 'index.php?tag=$matches[1]&embed=true',
+      'tag/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?tag=$matches[1]&paged=$matches[2]',
+      'tag/([^/]+)/?$' => 'index.php?tag=$matches[1]',
+      'type/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_format=$matches[1]&feed=$matches[2]',
+      'type/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_format=$matches[1]&feed=$matches[2]',
+      'type/([^/]+)/embed/?$' => 'index.php?post_format=$matches[1]&embed=true',
+      'type/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?post_format=$matches[1]&paged=$matches[2]',
+      'type/([^/]+)/?$' => 'index.php?post_format=$matches[1]',
+      'forums/forum/.+?/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'forums/forum/.+?/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'forums/forum/.+?/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'forums/forum/.+?/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'forums/forum/.+?/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'forums/forum/.+?/attachment/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'forums/forum/(.+?)/embed/?$' => 'index.php?forum=$matches[1]&embed=true',
+      'forums/forum/(.+?)/trackback/?$' => 'index.php?forum=$matches[1]&tb=1',
+      'forums/forum/(.+?)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?forum=$matches[1]&feed=$matches[2]',
+      'forums/forum/(.+?)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?forum=$matches[1]&feed=$matches[2]',
+      'forums/forum/(.+?)/page/?([0-9]{1,})/?$' => 'index.php?forum=$matches[1]&paged=$matches[2]',
+      'forums/forum/(.+?)/comment-page-([0-9]{1,})/?$' => 'index.php?forum=$matches[1]&cpage=$matches[2]',
+      'forums/forum/(.+?)(?:/([0-9]+))?/?$' => 'index.php?forum=$matches[1]&page=$matches[2]',
+      'forums/topic/[^/]+/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'forums/topic/[^/]+/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'forums/topic/[^/]+/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'forums/topic/[^/]+/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'forums/topic/[^/]+/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'forums/topic/[^/]+/attachment/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'forums/topic/([^/]+)/embed/?$' => 'index.php?topic=$matches[1]&embed=true',
+      'forums/topic/([^/]+)/trackback/?$' => 'index.php?topic=$matches[1]&tb=1',
+      'forums/topic/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?topic=$matches[1]&feed=$matches[2]',
+      'forums/topic/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?topic=$matches[1]&feed=$matches[2]',
+      'forums/topic/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?topic=$matches[1]&paged=$matches[2]',
+      'forums/topic/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?topic=$matches[1]&cpage=$matches[2]',
+      'forums/topic/([^/]+)(?:/([0-9]+))?/?$' => 'index.php?topic=$matches[1]&page=$matches[2]',
+      'forums/topic/[^/]+/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'forums/topic/[^/]+/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'forums/topic/[^/]+/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'forums/topic/[^/]+/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'forums/topic/[^/]+/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'forums/topic/[^/]+/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'forums/reply/[^/]+/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'forums/reply/[^/]+/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'forums/reply/[^/]+/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'forums/reply/[^/]+/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'forums/reply/[^/]+/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'forums/reply/[^/]+/attachment/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'forums/reply/([^/]+)/embed/?$' => 'index.php?reply=$matches[1]&embed=true',
+      'forums/reply/([^/]+)/trackback/?$' => 'index.php?reply=$matches[1]&tb=1',
+      'forums/reply/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?reply=$matches[1]&paged=$matches[2]',
+      'forums/reply/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?reply=$matches[1]&cpage=$matches[2]',
+      'forums/reply/([^/]+)(?:/([0-9]+))?/?$' => 'index.php?reply=$matches[1]&page=$matches[2]',
+      'forums/reply/[^/]+/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'forums/reply/[^/]+/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'forums/reply/[^/]+/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'forums/reply/[^/]+/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'forums/reply/[^/]+/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'forums/reply/[^/]+/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'forums/topic-tag/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?topic-tag=$matches[1]&feed=$matches[2]',
+      'forums/topic-tag/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?topic-tag=$matches[1]&feed=$matches[2]',
+      'forums/topic-tag/([^/]+)/embed/?$' => 'index.php?topic-tag=$matches[1]&embed=true',
+      'forums/topic-tag/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?topic-tag=$matches[1]&paged=$matches[2]',
+      'forums/topic-tag/([^/]+)/?$' => 'index.php?topic-tag=$matches[1]',
+      'forums/search/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?bbp_search=$matches[1]&paged=$matches[2]',
+      'forums/search/([^/]+)/?$' => 'index.php?bbp_search=$matches[1]',
+      'donation/[^/]+/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'donation/[^/]+/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'donation/[^/]+/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'donation/[^/]+/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'donation/[^/]+/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'donation/[^/]+/attachment/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'donation/([^/]+)/embed/?$' => 'index.php?donation=$matches[1]&embed=true',
+      'donation/([^/]+)/trackback/?$' => 'index.php?donation=$matches[1]&tb=1',
+      'donation/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?donation=$matches[1]&paged=$matches[2]',
+      'donation/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?donation=$matches[1]&cpage=$matches[2]',
+      'donation/([^/]+)(?:/([0-9]+))?/?$' => 'index.php?donation=$matches[1]&page=$matches[2]',
+      'donation/[^/]+/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'donation/[^/]+/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'donation/[^/]+/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'donation/[^/]+/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'donation/[^/]+/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'donation/[^/]+/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'donor/[^/]+/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'donor/[^/]+/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'donor/[^/]+/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'donor/[^/]+/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'donor/[^/]+/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'donor/[^/]+/attachment/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'donor/([^/]+)/embed/?$' => 'index.php?donor=$matches[1]&embed=true',
+      'donor/([^/]+)/trackback/?$' => 'index.php?donor=$matches[1]&tb=1',
+      'donor/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?donor=$matches[1]&paged=$matches[2]',
+      'donor/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?donor=$matches[1]&cpage=$matches[2]',
+      'donor/([^/]+)(?:/([0-9]+))?/?$' => 'index.php?donor=$matches[1]&page=$matches[2]',
+      'donor/[^/]+/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'donor/[^/]+/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'donor/[^/]+/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'donor/[^/]+/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'donor/[^/]+/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'donor/[^/]+/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'funds/[^/]+/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'funds/[^/]+/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'funds/[^/]+/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'funds/[^/]+/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'funds/[^/]+/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'funds/[^/]+/attachment/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'funds/([^/]+)/embed/?$' => 'index.php?funds=$matches[1]&embed=true',
+      'funds/([^/]+)/trackback/?$' => 'index.php?funds=$matches[1]&tb=1',
+      'funds/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?funds=$matches[1]&paged=$matches[2]',
+      'funds/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?funds=$matches[1]&cpage=$matches[2]',
+      'funds/([^/]+)(?:/([0-9]+))?/?$' => 'index.php?funds=$matches[1]&page=$matches[2]',
+      'funds/[^/]+/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'funds/[^/]+/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'funds/[^/]+/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'funds/[^/]+/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'funds/[^/]+/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'funds/[^/]+/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'slidergroup/.+?/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'slidergroup/.+?/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'slidergroup/.+?/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'slidergroup/.+?/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'slidergroup/.+?/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'slidergroup/.+?/attachment/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'slidergroup/(.+?)/embed/?$' => 'index.php?slidergroup=$matches[1]&embed=true',
+      'slidergroup/(.+?)/trackback/?$' => 'index.php?slidergroup=$matches[1]&tb=1',
+      'slidergroup/(.+?)/page/?([0-9]{1,})/?$' => 'index.php?slidergroup=$matches[1]&paged=$matches[2]',
+      'slidergroup/(.+?)/comment-page-([0-9]{1,})/?$' => 'index.php?slidergroup=$matches[1]&cpage=$matches[2]',
+      'slidergroup/(.+?)(?:/([0-9]+))?/?$' => 'index.php?slidergroup=$matches[1]&page=$matches[2]',
+      'position/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?position=$matches[1]&feed=$matches[2]',
+      'position/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?position=$matches[1]&feed=$matches[2]',
+      'position/([^/]+)/embed/?$' => 'index.php?position=$matches[1]&embed=true',
+      'position/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?position=$matches[1]&paged=$matches[2]',
+      'position/([^/]+)/?$' => 'index.php?position=$matches[1]',
+      'team-page/.+?/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'team-page/.+?/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'team-page/.+?/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'team-page/.+?/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'team-page/.+?/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'team-page/.+?/attachment/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'team-page/(.+?)/embed/?$' => 'index.php?team-page=$matches[1]&embed=true',
+      'team-page/(.+?)/trackback/?$' => 'index.php?team-page=$matches[1]&tb=1',
+      'team-page/(.+?)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?team-page=$matches[1]&feed=$matches[2]',
+      'team-page/(.+?)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?team-page=$matches[1]&feed=$matches[2]',
+      'team-page/(.+?)/page/?([0-9]{1,})/?$' => 'index.php?team-page=$matches[1]&paged=$matches[2]',
+      'team-page/(.+?)/comment-page-([0-9]{1,})/?$' => 'index.php?team-page=$matches[1]&cpage=$matches[2]',
+      'team-page/(.+?)(?:/([0-9]+))?/?$' => 'index.php?team-page=$matches[1]&page=$matches[2]',
+      'tmonials/.+?/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'tmonials/.+?/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'tmonials/.+?/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'tmonials/.+?/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'tmonials/.+?/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'tmonials/.+?/attachment/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'tmonials/(.+?)/embed/?$' => 'index.php?tmonials=$matches[1]&embed=true',
+      'tmonials/(.+?)/trackback/?$' => 'index.php?tmonials=$matches[1]&tb=1',
+      'tmonials/(.+?)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?tmonials=$matches[1]&feed=$matches[2]',
+      'tmonials/(.+?)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?tmonials=$matches[1]&feed=$matches[2]',
+      'tmonials/(.+?)/page/?([0-9]{1,})/?$' => 'index.php?tmonials=$matches[1]&paged=$matches[2]',
+      'tmonials/(.+?)/comment-page-([0-9]{1,})/?$' => 'index.php?tmonials=$matches[1]&cpage=$matches[2]',
+      'tmonials/(.+?)(?:/([0-9]+))?/?$' => 'index.php?tmonials=$matches[1]&page=$matches[2]',
+      'email_subscriber/.+?/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'email_subscriber/.+?/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'email_subscriber/.+?/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'email_subscriber/.+?/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'email_subscriber/.+?/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'email_subscriber/.+?/attachment/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'email_subscriber/(.+?)/embed/?$' => 'index.php?email_subscriber=$matches[1]&embed=true',
+      'email_subscriber/(.+?)/trackback/?$' => 'index.php?email_subscriber=$matches[1]&tb=1',
+      'email_subscriber/(.+?)/page/?([0-9]{1,})/?$' => 'index.php?email_subscriber=$matches[1]&paged=$matches[2]',
+      'email_subscriber/(.+?)/comment-page-([0-9]{1,})/?$' => 'index.php?email_subscriber=$matches[1]&cpage=$matches[2]',
+      'email_subscriber/(.+?)(?:/([0-9]+))?/?$' => 'index.php?email_subscriber=$matches[1]&page=$matches[2]',
+      'gallery-category/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?gallery-category=$matches[1]&feed=$matches[2]',
+      'gallery-category/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?gallery-category=$matches[1]&feed=$matches[2]',
+      'gallery-category/([^/]+)/embed/?$' => 'index.php?gallery-category=$matches[1]&embed=true',
+      'gallery-category/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?gallery-category=$matches[1]&paged=$matches[2]',
+      'gallery-category/([^/]+)/?$' => 'index.php?gallery-category=$matches[1]',
+      'gall/.+?/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'gall/.+?/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'gall/.+?/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'gall/.+?/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'gall/.+?/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'gall/.+?/attachment/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'gall/(.+?)/embed/?$' => 'index.php?gall=$matches[1]&embed=true',
+      'gall/(.+?)/trackback/?$' => 'index.php?gall=$matches[1]&tb=1',
+      'gall/(.+?)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?gall=$matches[1]&feed=$matches[2]',
+      'gall/(.+?)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?gall=$matches[1]&feed=$matches[2]',
+      'gall/(.+?)/page/?([0-9]{1,})/?$' => 'index.php?gall=$matches[1]&paged=$matches[2]',
+      'gall/(.+?)/comment-page-([0-9]{1,})/?$' => 'index.php?gall=$matches[1]&cpage=$matches[2]',
+      'gall/(.+?)(?:/([0-9]+))?/?$' => 'index.php?gall=$matches[1]&page=$matches[2]',
+      'event/.+?/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'event/.+?/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'event/.+?/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'event/.+?/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'event/.+?/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'event/.+?/attachment/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      'event/(.+?)/embed/?$' => 'index.php?event=$matches[1]&embed=true',
+      'event/(.+?)/trackback/?$' => 'index.php?event=$matches[1]&tb=1',
+      'event/(.+?)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?event=$matches[1]&feed=$matches[2]',
+      'event/(.+?)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?event=$matches[1]&feed=$matches[2]',
+      'event/(.+?)/page/?([0-9]{1,})/?$' => 'index.php?event=$matches[1]&paged=$matches[2]',
+      'event/(.+?)/comment-page-([0-9]{1,})/?$' => 'index.php?event=$matches[1]&cpage=$matches[2]',
+      'event/(.+?)(?:/([0-9]+))?/?$' => 'index.php?event=$matches[1]&page=$matches[2]',
+      'events-categories/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?events-categories=$matches[1]&feed=$matches[2]',
+      'events-categories/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?events-categories=$matches[1]&feed=$matches[2]',
+      'events-categories/([^/]+)/embed/?$' => 'index.php?events-categories=$matches[1]&embed=true',
+      'events-categories/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?events-categories=$matches[1]&paged=$matches[2]',
+      'events-categories/([^/]+)/?$' => 'index.php?events-categories=$matches[1]',
+      '.*wp-(atom|rdf|rss|rss2|feed|commentsrss2)\\.php$' => 'index.php?feed=old',
+      '.*wp-app\\.php(/.*)?$' => 'index.php?error=403',
+      '.*wp-register.php$' => 'index.php?register=true',
+      'feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?&feed=$matches[1]',
+      '(feed|rdf|rss|rss2|atom)/?$' => 'index.php?&feed=$matches[1]',
+      'embed/?$' => 'index.php?&embed=true',
+      'page/?([0-9]{1,})/?$' => 'index.php?&paged=$matches[1]',
+      'comments/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?&feed=$matches[1]&withcomments=1',
+      'comments/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?&feed=$matches[1]&withcomments=1',
+      'comments/embed/?$' => 'index.php?&embed=true',
+      'search/(.+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?s=$matches[1]&feed=$matches[2]',
+      'search/(.+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?s=$matches[1]&feed=$matches[2]',
+      'search/(.+)/embed/?$' => 'index.php?s=$matches[1]&embed=true',
+      'search/(.+)/page/?([0-9]{1,})/?$' => 'index.php?s=$matches[1]&paged=$matches[2]',
+      'search/(.+)/?$' => 'index.php?s=$matches[1]',
+      'author/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?author_name=$matches[1]&feed=$matches[2]',
+      'author/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?author_name=$matches[1]&feed=$matches[2]',
+      'author/([^/]+)/embed/?$' => 'index.php?author_name=$matches[1]&embed=true',
+      'author/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?author_name=$matches[1]&paged=$matches[2]',
+      'author/([^/]+)/?$' => 'index.php?author_name=$matches[1]',
+      '([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&feed=$matches[4]',
+      '([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&feed=$matches[4]',
+      '([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/embed/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&embed=true',
+      '([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/page/?([0-9]{1,})/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&paged=$matches[4]',
+      '([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]',
+      '([0-9]{4})/([0-9]{1,2})/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&feed=$matches[3]',
+      '([0-9]{4})/([0-9]{1,2})/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&feed=$matches[3]',
+      '([0-9]{4})/([0-9]{1,2})/embed/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&embed=true',
+      '([0-9]{4})/([0-9]{1,2})/page/?([0-9]{1,})/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&paged=$matches[3]',
+      '([0-9]{4})/([0-9]{1,2})/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]',
+      '([0-9]{4})/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?year=$matches[1]&feed=$matches[2]',
+      '([0-9]{4})/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?year=$matches[1]&feed=$matches[2]',
+      '([0-9]{4})/embed/?$' => 'index.php?year=$matches[1]&embed=true',
+      '([0-9]{4})/page/?([0-9]{1,})/?$' => 'index.php?year=$matches[1]&paged=$matches[2]',
+      '([0-9]{4})/?$' => 'index.php?year=$matches[1]',
+      '.?.+?/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      '.?.+?/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      '.?.+?/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      '.?.+?/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      '.?.+?/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      '.?.+?/attachment/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      '(.?.+?)/embed/?$' => 'index.php?pagename=$matches[1]&embed=true',
+      '(.?.+?)/trackback/?$' => 'index.php?pagename=$matches[1]&tb=1',
+      '(.?.+?)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?pagename=$matches[1]&feed=$matches[2]',
+      '(.?.+?)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?pagename=$matches[1]&feed=$matches[2]',
+      '(.?.+?)/page/?([0-9]{1,})/?$' => 'index.php?pagename=$matches[1]&paged=$matches[2]',
+      '(.?.+?)/comment-page-([0-9]{1,})/?$' => 'index.php?pagename=$matches[1]&cpage=$matches[2]',
+      '(.?.+?)(?:/([0-9]+))?/?$' => 'index.php?pagename=$matches[1]&page=$matches[2]',
+      '[^/]+/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      '[^/]+/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      '[^/]+/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      '[^/]+/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      '[^/]+/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      '[^/]+/attachment/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+      '([^/]+)/embed/?$' => 'index.php?name=$matches[1]&embed=true',
+      '([^/]+)/trackback/?$' => 'index.php?name=$matches[1]&tb=1',
+      '([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?name=$matches[1]&feed=$matches[2]',
+      '([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?name=$matches[1]&feed=$matches[2]',
+      '([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?name=$matches[1]&paged=$matches[2]',
+      '([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?name=$matches[1]&cpage=$matches[2]',
+      '([^/]+)(?:/([0-9]+))?/?$' => 'index.php?name=$matches[1]&page=$matches[2]',
+      '[^/]+/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      '[^/]+/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      '[^/]+/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      '[^/]+/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      '[^/]+/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      '[^/]+/([^/]+)/embed/?$' => 'index.php?attachment=$matches[1]&embed=true',
+    ),
+    'autoload' => 'yes',
+  ),
+  200 => 
+  array (
+    'option_id' => '251',
+    'option_name' => 'widget_tmm_soonesteventwidget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  201 => 
+  array (
+    'option_id' => '252',
+    'option_name' => 'widget_tmm_eventscalendarwidget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  202 => 
+  array (
+    'option_id' => '253',
+    'option_name' => 'widget_tmm_upcomingeventswidget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  203 => 
+  array (
+    'option_id' => '258',
+    'option_name' => 'ls-plugin-version',
+    'option_value' => '6.7.6',
+    'autoload' => 'yes',
+  ),
+  204 => 
+  array (
+    'option_id' => '259',
+    'option_name' => 'ls-db-version',
+    'option_value' => '6.5.5',
+    'autoload' => 'yes',
+  ),
+  205 => 
+  array (
+    'option_id' => '260',
+    'option_name' => 'ls-installed',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  206 => 
+  array (
+    'option_id' => '261',
+    'option_name' => 'ls-date-installed',
+    'option_value' => '1548254204',
+    'autoload' => 'yes',
+  ),
+  207 => 
+  array (
+    'option_id' => '263',
+    'option_name' => 'widget_layerslider_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  208 => 
+  array (
+    'option_id' => '267',
+    'option_name' => 'arq_options',
+    'option_value' => 
+    array (
+      'social' => 
+      array (
+        'facebook' => 
+        array (
+          'text' => 'Fans',
+        ),
+        'twitter' => 
+        array (
+          'text' => 'Followers',
+        ),
+        'google' => 
+        array (
+          'text' => 'Followers',
+        ),
+        'linkedin' => 
+        array (
+          'text' => 'Followers',
+        ),
+        'tumblr' => 
+        array (
+          'text' => 'Followers',
+        ),
+        '500px' => 
+        array (
+          'text' => 'Followers',
+        ),
+        'pinterest' => 
+        array (
+          'text' => 'Followers',
+        ),
+        'spotify' => 
+        array (
+          'text' => 'Followers',
+        ),
+        'twitch' => 
+        array (
+          'text' => 'Followers',
+        ),
+        'mixcloud' => 
+        array (
+          'text' => 'Followers',
+        ),
+        'dribbble' => 
+        array (
+          'text' => 'Followers',
+        ),
+        'envato' => 
+        array (
+          'text' => 'Followers',
+        ),
+        'github' => 
+        array (
+          'text' => 'Followers',
+        ),
+        'soundcloud' => 
+        array (
+          'text' => 'Followers',
+        ),
+        'behance' => 
+        array (
+          'text' => 'Followers',
+        ),
+        'instagram' => 
+        array (
+          'text' => 'Followers',
+        ),
+        'youtube' => 
+        array (
+          'text' => 'Subscribers',
+        ),
+        'vimeo' => 
+        array (
+          'text' => 'Subscribers',
+        ),
+        'mailchimp' => 
+        array (
+          'text' => 'Subscribers',
+        ),
+        'mailpoet' => 
+        array (
+          'text' => 'Subscribers',
+        ),
+        'mymail' => 
+        array (
+          'text' => 'Subscribers',
+        ),
+        'rss' => 
+        array (
+          'text' => 'Subscribers',
+        ),
+        'foursquare' => 
+        array (
+          'text' => 'Friends',
+        ),
+        'goodreads' => 
+        array (
+          'text' => 'Friends',
+        ),
+        'vk' => 
+        array (
+          'text' => 'Members',
+        ),
+        'flickr' => 
+        array (
+          'text' => 'Members',
+        ),
+        'steam' => 
+        array (
+          'text' => 'Members',
+        ),
+        'members' => 
+        array (
+          'text' => 'Members',
+        ),
+        'comments' => 
+        array (
+          'text' => 'Comments',
+        ),
+        'posts' => 
+        array (
+          'text' => 'Posts',
+        ),
+        'groups' => 
+        array (
+          'text' => 'Groups',
+        ),
+        'forums' => 
+        array (
+          'text' => 'Forums',
+        ),
+        'toptcs' => 
+        array (
+          'text' => 'Topics',
+        ),
+        'replies' => 
+        array (
+          'text' => 'Replies',
+        ),
+      ),
+      'cache' => 5,
+    ),
+    'autoload' => 'yes',
+  ),
+  209 => 
+  array (
+    'option_id' => '268',
+    'option_name' => 'arqam_active',
+    'option_value' => '2.0.0',
+    'autoload' => 'yes',
+  ),
+  210 => 
+  array (
+    'option_id' => '269',
+    'option_name' => 'widget_arqam_counter-widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  211 => 
+  array (
+    'option_id' => '272',
+    'option_name' => 'ls-latest-version',
+    'option_value' => '6.7.6',
+    'autoload' => 'yes',
+  ),
+  212 => 
+  array (
+    'option_id' => '275',
+    'option_name' => 'recently_activated',
+    'option_value' => 
+    array (
+    ),
+    'autoload' => 'yes',
+  ),
+)
